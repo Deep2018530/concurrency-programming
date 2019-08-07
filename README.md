@@ -1,2 +1,6 @@
-# concurrency-programming
-多线程编程知识总结、demo汇总
+# 多线程编程知识梳理
+
+**参考书籍**    
+* 《Java并发编程的艺术》
+* 《Java多线程编程核心技术-第二版》   
+
