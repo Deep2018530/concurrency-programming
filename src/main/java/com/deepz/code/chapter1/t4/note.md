@@ -12,3 +12,49 @@
 
 
 > 将run方法前面加上锁关键字 **synchronized** 问题就迎刃而解了
+
+```java
+
+/**
+ * created by zhangdingping on 2019/8/14
+ * 变量共享情况-投票功能多线程
+ */
+public class MyThread extends Thread {
+
+    private int count = 5;
+
+    @Override
+    synchronized public void run() {
+        super.run();
+        count--;
+        //此示例不要用while语句，会造成其他线程得不到运行的机会
+        //因为第一个执行while语句的线程会将count值减到0
+        //一直由一个线程进行减法运算
+        System.out.println("由 " + currentThread().getName() + " 计算,count = " + count);
+    }
+}
+
+/**
+ * created by zhangdingping on 2019/8/14
+ */
+public class Run {
+
+    public static void main(String[] args) {
+        MyThread myThread = new MyThread();
+
+        Thread a = new Thread(myThread,"A");
+        Thread b = new Thread(myThread,"B");
+        Thread c = new Thread(myThread,"C");
+        Thread d = new Thread(myThread,"D");
+        Thread e = new Thread(myThread,"E");
+
+        a.start();
+        b.start();
+        c.start();
+        d.start();
+        e.start();
+    }
+}
+
+
+```
