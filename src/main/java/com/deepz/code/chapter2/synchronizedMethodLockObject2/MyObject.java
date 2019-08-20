@@ -15,11 +15,11 @@ public class MyObject {
         }
     }
 
-    public void methodB() {
+    synchronized public void methodB() {
         try {
-            System.out.println("begin methodB threadName = " + Thread.currentThread().getName() + "begin time=" + System.currentTimeMillis());
+            System.out.println("begin methodB threadName = " + Thread.currentThread().getName() + " begin time=" + System.currentTimeMillis());
             Thread.sleep(5000);
-            System.out.println("end endTime=" + System.currentTimeMillis());
+            System.out.println("end");
         } catch (InterruptedException e) {
             e.printStackTrace();
         }

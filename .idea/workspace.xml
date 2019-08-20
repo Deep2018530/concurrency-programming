@@ -1,16 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-<<<<<<< HEAD
-    <list default="true" id="22ebe3d0-ad48-4520-9f1b-2fca08db4cb2" name="Default Changelist" comment="" />
-=======
-    <list default="true" id="22ebe3d0-ad48-4520-9f1b-2fca08db4cb2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/deepz/code/chapter1/note.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/deepz/code/chapter1/note.md" afterDir="false" />
+    <list default="true" id="8994b824-6201-45bd-9b0a-e98db5d21a79" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/deepz/code/chapter2/note.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/deepz/code/chapter2/note.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/deepz/code/chapter2/synchronizedMethodLockObject2/MyObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/deepz/code/chapter2/synchronizedMethodLockObject2/MyObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/deepz/code/chapter2/synchronizedMethodLockObject2/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/deepz/code/chapter2/synchronizedMethodLockObject2/Run.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/concurrency-programming.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/deepz/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/deepz/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/deepz/code/chapter1/Test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/deepz/code/chapter1/Test1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/deepz/code/chapter1/Test6.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/deepz/code/chapter1/Test6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/deepz/code/chapter1/demoThread/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/deepz/code/chapter1/demoThread/MyThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/deepz/code/chapter1/demoThread/Run.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/deepz/code/chapter1/demoThread/Run.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/deepz/code/chapter1/t12/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/deepz/code/chapter1/t12/MyThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/deepz/code/chapter1/t12/Run1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/deepz/code/chapter1/t12/Run1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/deepz/code/chapter1/t17/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/deepz/code/chapter1/t17/MyThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/deepz/code/chapter1/t17/Run.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/deepz/code/chapter1/t17/Run.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/deepz/code/chapter1/t3/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/deepz/code/chapter1/t3/MyThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/deepz/code/chapter1/t3/Run.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/deepz/code/chapter1/t3/Run.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/deepz/code/chapter1/t4/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/deepz/code/chapter1/t4/MyThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/deepz/code/chapter1/t4/Run.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/deepz/code/chapter1/t4/Run.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/deepz/code/chapter1/t4_threadsafe/ALogin.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/deepz/code/chapter1/t4_threadsafe/ALogin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/deepz/code/chapter1/t4_threadsafe/BLogin.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/deepz/code/chapter1/t4_threadsafe/BLogin.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/deepz/code/chapter1/t4_threadsafe/LoginServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/deepz/code/chapter1/t4_threadsafe/LoginServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/deepz/code/chapter1/t4_threadsafe/Run.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/deepz/code/chapter1/t4_threadsafe/Run.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/deepz/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/deepz/AppTest.class" afterDir="false" />
     </list>
->>>>>>> 52c7d4aca321899d4fac623a0d09097efb50ecb7
-    <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,24 +35,14 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DefaultGradleProjectSettings">
-    <option name="isMigrated" value="true" />
-  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-<<<<<<< HEAD
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-63">
-              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-=======
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/code/chapter1/note.md">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/code/chapter2/note.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="340">
-                <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+              <first_editor relative-caret-position="597">
+                <caret line="45" column="100" selection-start-line="45" selection-start-column="100" selection-end-line="45" selection-end-column="100" />
               </first_editor>
               <second_editor />
             </state>
@@ -43,64 +50,108 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/code/chapter1/demoThread/MyThread.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/code/chapter2/t6/Task.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="25" column="44" selection-end-line="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/code/chapter2/t6/note.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="76">
+                <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/code/chapter2/synLockIn_2/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="29" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/code/chapter2/synLockIn_2/Sub.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="35" lean-forward="true" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/code/chapter2/synLockIn_2/Run.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="36" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/code/chapter2/synLockIn_2/note.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="-524">
+                <caret line="6" selection-start-line="6" selection-end-line="6" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/code/chapter2/synLockIn_1/Service.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="18" column="36" selection-end-line="21" />
+              <folding>
+                <element signature="e#374#375#0" expanded="true" />
+                <element signature="e#420#421#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/code/chapter2/synLockIn_1/MyThread.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="228">
-              <caret line="12" column="15" lean-forward="true" selection-end-line="22" />
->>>>>>> 52c7d4aca321899d4fac623a0d09097efb50ecb7
+              <caret line="12" column="1" lean-forward="true" selection-end-line="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/code/chapter1/demoThread/Run.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/code/chapter2/synLockIn_1/Run.java">
           <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-            <state relative-caret-position="19">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-=======
-            <state relative-caret-position="232">
-              <caret line="17" column="9" lean-forward="true" selection-end-line="20" />
->>>>>>> 52c7d4aca321899d4fac623a0d09097efb50ecb7
+            <state relative-caret-position="171">
+              <caret line="9" column="18" selection-end-line="12" />
             </state>
           </provider>
         </entry>
       </file>
-<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/code/chapter2/synLockIn_1/note.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="114">
-                <caret line="6" selection-start-line="6" selection-end-line="6" />
-=======
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/code/chapter1/demoThread/note.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="247">
-                <caret line="13" selection-start-line="13" selection-end-line="13" />
->>>>>>> 52c7d4aca321899d4fac623a0d09097efb50ecb7
+              <first_editor relative-caret-position="-354">
+                <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+                <folding>
+                  <element signature="e#325#326#0" expanded="true" />
+                  <element signature="e#371#372#0" expanded="true" />
+                </folding>
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/code/chapter1/t17/MyThread.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="346">
-              <caret line="20" column="62" selection-start-line="20" selection-start-column="62" selection-end-line="20" selection-end-column="62" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/code/chapter1/t17/Run.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -110,7 +161,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="FxmlFile" />
         <option value="Class" />
       </list>
     </option>
@@ -121,53 +171,32 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/src/main/java/com/deepz/code/chapter/t3/MyThread.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/deepz/code/chapter1/t3/MyThread.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/deepz/code/chapter1/t3/Run.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/deepz/code/chapter1/t4/Run.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/deepz/code/chapter1/t4/MyThread.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/deepz/code/chapter1/t4_threadsafe/ALogin.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/deepz/code/chapter1/t4_threadsafe/BLogin.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/deepz/code/chapter1/t4_threadsafe/Run.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/deepz/code/chapter1/t4_threadsafe/LoginServlet.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/deepz/code/chapter1/t3/note.md" />
-        <option value="$PROJECT_DIR$/src/main/java/com/deepz/code/chapter1/t4/note.md" />
-        <option value="$PROJECT_DIR$/src/main/java/com/deepz/code/chapter1/t4_threadsafe/note.md" />
-        <option value="$PROJECT_DIR$/src/main/java/com/deepz/code/chapter1/Test1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/deepz/code/chapter1/Test6.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/deepz/code/chapter1/t12/MyThread.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/deepz/code/chapter1/t12/Run2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/deepz/code/chapter1/t12/Run1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/deepz/code/chapter1/t17/Run.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/deepz/code/chapter1/t17/MyThread.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/deepz/code/chapter1/note.md" />
-        <option value="$PROJECT_DIR$/src/main/java/com/deepz/code/chapter1/demoThread/MyThread.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/deepz/code/chapter1/demoThread/Run.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/deepz/code/chapter1/demoThread/note.md" />
+        <option value="$PROJECT_DIR$/src/main/java/com/deepz/code/chapter2/synchronizedMethodLockObject2/Run.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/deepz/code/chapter2/synchronizedMethodLockObject2/MyObject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/deepz/code/chapter2/synchronizedMethodLockObject2/note.md" />
+        <option value="$PROJECT_DIR$/src/main/java/com/deepz/code/chapter2/t3/ThreadA.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/deepz/code/chapter2/t3/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/deepz/code/chapter2/t3/PublicVar.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/deepz/code/chapter2/t3/note.md" />
+        <option value="$PROJECT_DIR$/src/main/java/com/deepz/code/chapter2/synLockIn_1/Service.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/deepz/code/chapter2/synLockIn_1/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/deepz/code/chapter2/synLockIn_1/Run.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/deepz/code/chapter2/synLockIn_1/note.md" />
+        <option value="$PROJECT_DIR$/src/main/java/com/deepz/code/chapter2/synLockIn_2/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/deepz/code/chapter2/synLockIn_2/Sub.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/deepz/code/chapter2/synLockIn_2/Run.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/deepz/code/chapter2/synLockIn_2/note.md" />
+        <option value="$PROJECT_DIR$/src/main/java/com/deepz/code/chapter2/note.md" />
+        <option value="$PROJECT_DIR$/src/main/java/com/deepz/code/chapter2/t6/Task.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/deepz/code/chapter2/t6/note.md" />
       </list>
     </option>
   </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="localRepository" value="E:\maven\repository" />
-        <option name="mavenHome" value="E:/maven/apache-maven-3.6.0" />
-        <option name="userSettingsFile" value="E:\maven\apache-maven-3.6.0\conf\settings.xml" />
-      </MavenGeneralSettings>
-    </option>
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="175" />
-    <option name="y" value="120" />
-    <option name="width" value="1245" />
-    <option name="height" value="1035" />
+    <option name="x" value="595" />
+    <option name="y" value="165" />
+    <option name="width" value="1750" />
+    <option name="height" value="1465" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -177,10 +206,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-<<<<<<< HEAD
-=======
       <pane id="PackagesPane" />
->>>>>>> 52c7d4aca321899d4fac623a0d09097efb50ecb7
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -191,11 +217,6 @@
             <path>
               <item name="concurrency-programming" type="b2602c69:ProjectViewProjectNode" />
               <item name="concurrency-programming" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="concurrency-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="concurrency-programming" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -230,7 +251,7 @@
             </path>
             <path>
               <item name="concurrency-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="concurrency" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrency-programming" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -240,51 +261,40 @@
             </path>
             <path>
               <item name="concurrency-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="concurrency" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrency-programming" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="deepz" type="462c0819:PsiDirectoryNode" />
               <item name="code" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter1" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="concurrency-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="concurrency" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrency-programming" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="deepz" type="462c0819:PsiDirectoryNode" />
               <item name="code" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter1" type="462c0819:PsiDirectoryNode" />
-              <item name="demoThread" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter2" type="462c0819:PsiDirectoryNode" />
+              <item name="t6" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-<<<<<<< HEAD
-      <pane id="PackagesPane" />
-=======
->>>>>>> 52c7d4aca321899d4fac623a0d09097efb50ecb7
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/deepz/code" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566271809498" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-<<<<<<< HEAD
-    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
-=======
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
->>>>>>> 52c7d4aca321899d4fac623a0d09097efb50ecb7
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -298,49 +308,65 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Run (1)">
+  <component name="RunManager" selected="Application.Run (2)">
     <configuration name="Run (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.deepz.code.chapter1.demoThread.Run" />
+      <option name="MAIN_CLASS_NAME" value="com.deepz.code.chapter2.synLockIn_1.Run" />
       <module name="concurrency-programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.deepz.code.chapter2.synLockIn_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.deepz.code.chapter2.synLockIn_2.Run" />
+      <module name="concurrency-programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.deepz.code.chapter2.synLockIn_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.deepz.code.chapter1.t17.Run" />
+      <option name="MAIN_CLASS_NAME" value="com.deepz.code.chapter2.synchronizedMethodLockObject2.Run" />
       <module name="concurrency-programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.deepz.code.chapter2.synchronizedMethodLockObject2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Run1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.deepz.code.chapter1.t12.Run1" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.deepz.code.chapter2.t3.Test" />
       <module name="concurrency-programming" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.deepz.code.chapter1.Test1" />
-      <module name="concurrency-programming" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.deepz.code.chapter1.Test6" />
-      <module name="concurrency-programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.deepz.code.chapter2.t3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Run (2)" />
         <item itemvalue="Application.Run (1)" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.Run" />
-        <item itemvalue="Application.Run1" />
-        <item itemvalue="Application.Test6" />
-        <item itemvalue="Application.Test1" />
       </list>
     </recent_temporary>
   </component>
@@ -349,292 +375,208 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="22ebe3d0-ad48-4520-9f1b-2fca08db4cb2" name="Default Changelist" comment="" />
-      <created>1565764763123</created>
+      <changelist id="8994b824-6201-45bd-9b0a-e98db5d21a79" name="Default Changelist" comment="" />
+      <created>1566268354527</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1565764763123</updated>
+      <updated>1566268354527</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="2062" height="1126" extended-state="6" />
+    <editor active="true" />
     <layout>
-<<<<<<< HEAD
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25499" />
-=======
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2600536" />
->>>>>>> 52c7d4aca321899d4fac623a0d09097efb50ecb7
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18962076" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.32997987" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.39276138" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3994638" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30985916" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-<<<<<<< HEAD
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32997987" />
-      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" />
-=======
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3297587" />
-      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3297587" />
->>>>>>> 52c7d4aca321899d4fac623a0d09097efb50ecb7
-      <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="right" id="Database" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info anchor="right" id="Translate" order="9" />
     </layout>
   </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/code.java" />
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/code/chapter2/synchronizedMethodLockObject2/MyObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" lean-forward="true" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/code/chapter2/synchronizedMethodLockObject2/ThreadA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="13" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/code/chapter2/synchronizedMethodLockObject2/ThreadB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="13" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/code/chapter2/synchronizedMethodLockObject2/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="40" lean-forward="true" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/code/chapter2/synchronizedMethodLockObject2/note.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="95">
-            <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <first_editor relative-caret-position="171">
+            <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/code/chapter2/t3/ThreadA.java">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state relative-caret-position="-63">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-=======
-        <state relative-caret-position="413">
-          <caret line="40" column="26" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="26" />
->>>>>>> 52c7d4aca321899d4fac623a0d09097efb50ecb7
+        <state relative-caret-position="323">
+          <caret line="17" column="35" selection-end-line="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/code/chapter1/t3/MyThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="23" lean-forward="true" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/code/chapter1/t3/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/code/chapter1/t3/note.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-<<<<<<< HEAD
-          <first_editor relative-caret-position="114">
-            <caret line="6" selection-start-line="6" selection-end-line="6" />
-=======
-          <first_editor relative-caret-position="-228">
-            <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/code/chapter1/t4/MyThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/code/chapter1/t4/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" lean-forward="true" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/code/chapter1/t4/note.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="82">
-            <caret line="16" selection-start-line="16" selection-end-line="16" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/code/chapter1/t4_threadsafe/ALogin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" lean-forward="true" selection-end-line="12" />
-          <folding>
-            <element signature="e#171#172#0" expanded="true" />
-            <element signature="e#217#218#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/code/chapter1/t4_threadsafe/BLogin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="36" selection-end-line="12" />
-          <folding>
-            <element signature="e#171#172#0" expanded="true" />
-            <element signature="e#217#218#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/code/chapter1/t4_threadsafe/LoginServlet.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/code/chapter2/t3/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="15" column="19" selection-end-line="29" />
+          <caret line="15" column="36" selection-end-line="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/code/chapter1/t4_threadsafe/note.md">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/code/chapter2/t3/PublicVar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="23" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/code/chapter2/t3/note.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="177">
-            <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <first_editor relative-caret-position="278">
+            <caret line="73" column="6" selection-start-line="73" selection-start-column="6" selection-end-line="73" selection-end-column="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/code/chapter2/synLockIn_1/Service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="36" selection-end-line="21" />
+          <folding>
+            <element signature="e#374#375#0" expanded="true" />
+            <element signature="e#420#421#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/code/chapter2/synLockIn_1/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="1" lean-forward="true" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/code/chapter2/synLockIn_1/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="18" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/code/chapter2/synLockIn_1/note.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-354">
+            <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             <folding>
-              <element signature="e#723#724#0" expanded="true" />
-              <element signature="e#769#770#0" expanded="true" />
-              <element signature="e#895#896#0" expanded="true" />
-              <element signature="e#941#942#0" expanded="true" />
+              <element signature="e#325#326#0" expanded="true" />
+              <element signature="e#371#372#0" expanded="true" />
             </folding>
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/code/chapter1/t4_threadsafe/Run.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/code/chapter2/synLockIn_2/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="18" selection-end-line="15" />
+        <state relative-caret-position="171">
+          <caret line="9" column="29" selection-end-line="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/code/chapter1/Test1.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/code/chapter2/synLockIn_2/Sub.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="32" selection-end-column="5" />
-          <folding>
-            <element signature="e#125#126#0" expanded="true" />
-            <element signature="e#144#145#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="266">
+          <caret line="14" column="35" lean-forward="true" selection-end-line="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/code/chapter1/Test6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
-          <folding>
-            <element signature="e#131#132#0" expanded="true" />
-            <element signature="e#150#151#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_20/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="744" column="21" selection-start-line="744" selection-start-column="21" selection-end-line="744" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_20/src.zip!/java/lang/Runnable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="67" column="25" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/code/chapter1/t12/MyThread.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/code/chapter2/synLockIn_2/Run.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
-          <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+          <caret line="11" column="36" selection-end-line="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/code/chapter1/t12/Run1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="15" column="69" selection-start-line="15" selection-start-column="69" selection-end-line="15" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/code/chapter1/t17/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/code/chapter1/t17/MyThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="20" column="62" selection-start-line="20" selection-start-column="62" selection-end-line="20" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/code/chapter1/note.md">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/code/chapter2/synLockIn_2/note.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="340">
-            <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+          <first_editor relative-caret-position="-524">
+            <caret line="6" selection-start-line="6" selection-end-line="6" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/code/chapter1/demoThread/MyThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="15" lean-forward="true" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/code/chapter1/demoThread/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="17" column="9" lean-forward="true" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/code/chapter1/demoThread/note.md">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/code/chapter2/note.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="247">
-            <caret line="13" selection-start-line="13" selection-end-line="13" />
->>>>>>> 52c7d4aca321899d4fac623a0d09097efb50ecb7
+          <first_editor relative-caret-position="597">
+            <caret line="45" column="100" selection-start-line="45" selection-start-column="100" selection-end-line="45" selection-end-column="100" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/code/chapter2/t6/Task.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="44" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/code/chapter2/t6/note.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="76">
+            <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
           </first_editor>
           <second_editor />
         </state>
